@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Convert integer to possible word matched string
 module WordSearchDictionary
   DIGITS_MAP = {
